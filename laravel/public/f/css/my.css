@@ -1,0 +1,18 @@
+#footer .footer-copyright{
+	margin-top:0px;
+}
+
+#footer {
+	padding-top:0px;
+}
+
+#addresses .item{
+	border:solid 2px #ccc;
+	margin:5px;
+	
+}
+#addresses .aa{
+	border:solid 2px red;
+	margin:5px;
+	
+}
